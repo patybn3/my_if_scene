@@ -29,3 +29,5 @@ https://processing.org/reference/radians_.html
 https://processing.org/reference/cos_.html
 https://processing.org/reference/mousePressed_.html
 https://stackoverflow.com/questions/31381744/processing-how-to-write-on-mouse-click-in-region-for-effect-of-clicking-a-b
+
+<img width="503" alt="my_if_scene_patriciaantlitz_00318934" src="https://user-images.githubusercontent.com/59259041/100961809-16d8c600-34f1-11eb-9983-6c8bedc8c097.png">
