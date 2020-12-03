@@ -7,17 +7,18 @@
 Fall 2020
 
 7-2 Write a program to draw a scene. It must do the following:
-1- If the user presses the ‘r’, change the background to red, and draws a
+
+#### 1- If the user presses the ‘r’, change the background to red, and draws a
 character of your choice
-2- If the user presses the ‘g’, change the background to green, and draws a
+#### 2- If the user presses the ‘g’, change the background to green, and draws a
 set of yellow rectangles
-3- If the user presses the ‘b’, change the background to blue and draws a
+#### 3- If the user presses the ‘b’, change the background to blue and draws a
 collection of clouds
-4- If the user presses the ‘c’ and clicks the mouse on the top right of the
+#### 4- If the user presses the ‘c’ and clicks the mouse on the top right of the
 screen, it draws a set of clouds
-5- If the user presses the ‘v’ and clicks the mouse on the bottom right of
+#### 5- If the user presses the ‘v’ and clicks the mouse on the bottom right of
 the screen, it draws a car or a house
-6- If the user presses the ‘z’ and clicks the mouse in the middle of the
+#### 6- If the user presses the ‘z’ and clicks the mouse in the middle of the
 screen, it draws a complete scene with a car or a house, clouds, sun, etc.
 
 I have used other sources, as detailed in my submitted source file.
